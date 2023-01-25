@@ -1,17 +1,19 @@
-<img src="/Assets/Sprites/Logo.png" width="25%" height="25%">
-                                                              
-# Wave
-Hyper casual game made in Unity.
+# Wave Hyper casual game
+"Wave" is Very Addictive Hyper Casual Game.
 
-## Download
-[<img src="/google-play-badge.png" width="25%" height="25%">](https://play.google.com/store/apps/details?id=com.kbu.wave)
+## Screen
 
-You can also download [APK file](https://github.com/kaelduur/wave/releases/download/v1.0/Wave.apk) without Google Play integration.
+![image](https://user-images.githubusercontent.com/9028177/214606560-0cb1bbbf-dbe7-430d-94ff-8520faed08b8.png)
 
-## Audio
-[Background music](https://assetstore.unity.com/packages/audio/music/complete-music-collection-free-edition-119129)
 
-[SFX](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116)
+## How to play
+Tap the screen to accelerate the oscillating particle and avoid the obstacles!
 
-## Gameplay Video
-[![Wave Gameplay](https://i.ibb.co/XjWdyLR/Gameplay-02-vertical-Moment.jpg)](https://youtu.be/uJRrlJ75g3E "Wave Gameplay")
+Key features:
+- Simple one touch game
+- Addictive and endless fun game-play.
+- 2D Flat design.
+- Clean and well organized C# code.
+- Easy to change color, audio, difficutly(Speed).
+- No using light, Very good performance.
+- Ready to publish, web, desktop and mobile optimized
